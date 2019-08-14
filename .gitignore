@@ -1,0 +1,11 @@
+# Node
+node_modules/
+
+# Mac
+.DS_Store
+
+# Privacy
+*.pdf
+
+# Personal
+stackoverflow.js

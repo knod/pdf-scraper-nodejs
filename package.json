@@ -1,0 +1,22 @@
+{
+  "name": "pdf-scraper-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knod/pdf-scraper-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knod/pdf-scraper-nodejs/issues"
+  },
+  "homepage": "https://github.com/knod/pdf-scraper-nodejs#readme",
+  "dependencies": {
+    "pdfjs-dist": "^2.1.266"
+  }
+}
