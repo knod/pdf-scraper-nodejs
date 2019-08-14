@@ -3,7 +3,7 @@
 // node test
 
 // IMPORTS
-const {pdfToText} = require('./getRawText.js');
+const {pdfToText} = require('./pdfToText.js');
 
 
 // CODE
