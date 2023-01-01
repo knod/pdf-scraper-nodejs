@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/knod/pdf-scraper-nodejs#readme",
   "dependencies": {
-    "pdfjs-dist": "^2.1.266"
+    "pdfjs-dist": "^2.16.105"
   }
 }
